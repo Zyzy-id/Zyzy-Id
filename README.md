@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&lines=hi+there+👋;i'm+Zyzy.id;web+developer+%7C+android+learner;building+%7C+breaking+%7C+learning)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrFq/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
