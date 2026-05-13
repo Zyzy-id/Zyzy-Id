@@ -3,14 +3,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<h1 align="center">SYSTEM ONLINE ⚡</h1>
-
-<p align="center">
-  loading profile... ████████████ 100%
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
